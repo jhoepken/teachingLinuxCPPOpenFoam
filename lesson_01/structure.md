@@ -16,6 +16,7 @@
     ``
     cd, ls, mkdir, cp, rm
     ``
+
 4. **Editors and how to start them from the commandline**
     * ``gedit`` and ``kate`` are simple
     * ``vim`` and ``emacs`` are hard
@@ -27,8 +28,13 @@
     * Owner, Group, All
     * Can make files executable ``chmod +x file``
 
-5. **Shell scripting**
+6. **Shell scripting 1**
     * Somewhat similar to ``*.BAT`` files
     * Collection of shell commands
     * Basically text files
     * Should get file permissions to execute
+
+7. **Shell scripting 2**
+    * Either type ``bash <script>`` or give proper permissions and ``./script``
+    * Shebang: Tells the shell which program *understands* the following code
+    * Variables: define and access a variable
