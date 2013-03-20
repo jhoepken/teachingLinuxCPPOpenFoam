@@ -9,6 +9,9 @@ composed the materials in English, so that others might benefit from them as
 well. The writing in the following is kept as short as possible, as their main
 purpose is to serve me during the classes not to forget anything.
 
+## Authors
+* Jens Höpken
+
 ## Licensing
 
 Linux and OpenFOAM course (UDE/ISMT)
