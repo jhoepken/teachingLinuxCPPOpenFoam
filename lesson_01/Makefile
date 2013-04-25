@@ -4,6 +4,6 @@ structure: structure.md
 	pandoc -t latex $^ -o structure.pdf
 
 assignment: assignment.md
-	pandoc -t beamer $^ -V theme:$(THEME) -o assignment.pdf
+	pandoc --slide-level 2 -t beamer $^ -V theme:$(THEME) -o assignment.pdf
 
 all: structure assignment
